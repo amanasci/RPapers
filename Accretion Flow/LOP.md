@@ -41,7 +41,16 @@
 
 19. Sun, H.W. and Yang, X.H., 2021. **Dynamical and thermal properties of the parsec-scale gases spherically accreted on to low luminous active galactic nuclei.** Monthly Notices of the Royal Astronomical Society, 505(3), pp.4129-4140.
 
-20. Yuan, F. and Bu, D.F., 2010.** On the convective instability of hot radiative accretion flows.** Monthly Notices of the Royal Astronomical Society, 408(2), pp.1051-1060.
+20. Yuan, F. and Bu, D.F., 2010. **On the convective instability of hot radiative accretion flows.** Monthly Notices of the Royal Astronomical Society, 408(2), pp.1051-1060.
 
 21. Das, S., 2007. **Behaviour of dissipative accretion flows around black holes.** Monthly Notices of the Royal Astronomical Society, 376(4), pp.1659-1670.
-**
+
+22. Novikov, I.D. and Thorne, K.S., 1973. **Astrophysics of black holes.** In Black holes.
+
+23. Chakrabarti, S.K., 1990. **Theory of transonic astrophysical flows.** World Scientific.
+
+24. Chakrabarti, S.K., 1997. **Spectral properties of accretion disks around black holes. II. Sub-Keplerian flows with and without shocks.** The Astrophysical Journal, 484(1), p.313.
+
+25. Chakrabarti, S.K., 1990. **Standing shocks in isothermal rotating winds and accretion. II-Effects of viscous dissipation.** Monthly Notices of the Royal Astronomical Society, 243, pp.610-619.
+
+26. Chakrabarti, S.K., 1996. **Grand unification of solutions of accretion and winds around black holes and neutron stars.** arXiv preprint astro-ph/9606145.
